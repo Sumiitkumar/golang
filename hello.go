@@ -1,8 +1,11 @@
-import(
-	"fmt"
-	)
+// First Go program
+package main
 
-	func main() {
-		fmt.Println("!... Hello World ...!")
-	}
-	
+import "fmt";
+
+// Main function
+func main() {
+
+	fmt.Println("!... Hello World ...!")
+}
+

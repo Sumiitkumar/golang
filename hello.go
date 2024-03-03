@@ -6,6 +6,6 @@ import "fmt";
 // Main function
 func main() {
 
-	fmt.Println("!... Helloo World ...!")
+	fmt.Println("!... Hello World ...!")
 }
 
